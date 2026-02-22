@@ -1,4 +1,4 @@
-### Привет, мир! 👋 Меня зовут [Твоё Имя]
+### Привет, мир! 👋 Меня зовут Илья
 
 Я — Backend & ML разработчик. Я увлечен созданием красивых и функциональных вещей, которые решают реальные проблемы.
 
@@ -23,19 +23,6 @@
 
 ---
 
-### 📊 Моя статистика
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cherimolah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cherimolah&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cherimolah&theme=radical&no-frame=true&row=1&&margin-w=30&no-bg=true" />
-</p>
-
----
-
 ### 🐍 Поедание моих коммитов
 
 <!-- Забавная анимация змейки, которая "съедает" твои коммиты -->
@@ -48,13 +35,10 @@
 ### 📫 Как со мной связаться
 
 <p align="center">
-  <a href="https://t.me/[твой_ник]">
+  <a href="https://t.me/Cherimoalh">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/[твой_профиль]/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:твоя@почта.com">
+  <a href="elesin.i12@mail.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
