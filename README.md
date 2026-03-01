@@ -29,10 +29,10 @@ ML Engineer (sometimes)
 ### 📫 My links
 
 <p align="center">
-  <a href="https://t.me/Cherimoalh">
+  <a href="https://t.me/Cherimolah">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="elesin.i12@mail.ru">
+  <a href="mailto:elesin.i12@mail.ru?subject=We%20wanna%20work%20with%20you&body=Hello!%20Our%20product%20is...">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
