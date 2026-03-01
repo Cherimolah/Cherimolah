@@ -1,30 +1,25 @@
-### Привет, мир! 👋 Меня зовут Илья
+### Hello, world! 👋
 
-Я — Backend & ML разработчик. Я созданием функциональных и автоматических вещей, которые решают реальные проблемы.
+Turning ideas into production systems.
 
-*   🔭 Сейчас работаю над: **notifications_ggsel**
-*   🌱 Изучаю: **Scikit-learn**
-*   👯 Буду рад сотрудничеству над: **SigmaOne**
-*   💬 Можешь спросить у меня о том: **как поднять vless?**
-*   ⚡ Факт обо мне: **я люблю шаруму**
+Python Backend Engineer
+ML Engineer (sometimes)
 
 ---
 
-### 🛠️ Мой стек технологий
+### 🛠️ My stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <!-- Добавь свои бейджи с сайта https://shields.io/ -->
 </p>
 
 ---
 
-### 🐍 Поедание моих коммитов
+### 🐍 Snake eats my commits (omg)
 
-<!-- Забавная анимация змейки, которая "съедает" твои коммиты -->
 <p align="center">
   <img src="https://github.com/Cherimolah/Cherimolah/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
