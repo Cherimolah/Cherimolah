@@ -26,7 +26,7 @@ ML Engineer (sometimes)
 
 ---
 
-### 📫 Как со мной связаться
+### 📫 My links
 
 <p align="center">
   <a href="https://t.me/Cherimoalh">
